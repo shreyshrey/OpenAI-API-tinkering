@@ -1,6 +1,6 @@
 const { clear } = require('console')
 const readline = require('readline')
-const {generateMeta} = require('./controllers/openaiControler')
+const {generateMeta, generateImage} = require('./controllers/openaiControler')
 
 // interface for reading input from the console
 const rl = readline.createInterface({
@@ -10,4 +10,5 @@ const rl = readline.createInterface({
 
 
 // ask user question in the terminal
-rl.question('Yourtube Video title: \n' , generateMeta)
+// rl.question('Yourtube Video title: \n' , generateMeta)
+rl.question('Describe your Youtube thumbnail: \n' , generateImage)
