@@ -1,6 +1,6 @@
-This repo houses all my projects built with OpenAI API, ranging from basics to advanced experiments. I hope o showcase engaging, creative examples that highlight both technical skills and creativity.
+This repo houses all my projects built with OpenAI API, models from HuggingFace or anything new I can find ranging from basics to advanced experiments. I hope o showcase engaging, creative examples that highlight both technical skills and creativity.
 Hense the name: 
-## OpenAI-API-tinkering
+## Funky-projects
 
 # Stage 1: Basic
 ### Youtube-project
